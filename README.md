@@ -20,4 +20,5 @@ College Event Management System (CEMS) is a web-based platform developed to mana
 
 ## Developed By
 Jayaharini A
-contact:harini28.egspec@gmail.com
+Further details wants to know..
+E-mailID:harini28.egspec@gmail.com
