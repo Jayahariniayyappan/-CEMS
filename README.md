@@ -19,4 +19,5 @@ College Event Management System (CEMS) is a web-based platform developed to mana
 - MongoDB
 
 ## Developed By
-CEMS Team
+Jayaharini A
+contact:harini28.egspec@gmail.com
